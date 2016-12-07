@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XYZ Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="message_connection_not_available">Oops, it looks like there is no connection available</string>
+    <string name="message_generic_error">Oops, something went wrong couldn\'t refresh the data</string>
+</resources>
